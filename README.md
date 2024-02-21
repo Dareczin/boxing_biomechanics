@@ -1,4 +1,4 @@
-# Data Slicing Project
+# Code for obtanin kinematic variables from Noraxon biomechanics data.
 
 ## Overview
 
