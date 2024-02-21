@@ -1,4 +1,4 @@
-# Code for obtanin kinematic variables from Noraxon biomechanics data.
+# Code for obtaning kinematic variables from Noraxon biomechanics data.
 
 ## Overview
 
